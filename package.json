@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "node server.js",
     "example": "node example.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
