@@ -1,7 +1,7 @@
 {
   "name": "oc-decider",
   "version": "1.0.0",
-  "description": "An OpenAi compliant endpoint that can improve OpenClaw usefulness for the average user",
+  "description": "An OpenAI compliant endpoint that can improve OpenClaw usefulness for the average user",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
