@@ -1,0 +1,36 @@
+{
+  "name": "oc-decider",
+  "version": "1.0.0",
+  "description": "An OpenAI compliant endpoint that can improve OpenClaw usefulness for the average user",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "example": "node example.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AidanTheBandit/OC-Decider.git"
+  },
+  "keywords": [
+    "openai",
+    "llm",
+    "ai",
+    "multi-model",
+    "routing",
+    "complexity-analysis"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AidanTheBandit/OC-Decider/issues"
+  },
+  "homepage": "https://github.com/AidanTheBandit/OC-Decider#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "openai": "^6.21.0"
+  }
+}
